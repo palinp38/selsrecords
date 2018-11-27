@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\rambali\source\repos\appointmentdates\appointmentdates\source.cpp(177): warning C4129: 'M': unrecognized character escape sequence
+c:\users\rambali\source\repos\appointmentdates\appointmentdates\source.cpp(177): warning C4129: 'Y': unrecognized character escape sequence
+  appointmentdates.vcxproj -> C:\Users\rambali\source\repos\appointmentdates\Debug\appointmentdates.exe
